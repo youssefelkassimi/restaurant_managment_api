@@ -54,7 +54,7 @@ The backend covers the full restaurant workflow: authentication, clients, orders
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/youssefelkassimi/resto-backend.git
+git clone https://github.com/youssefelkassimi/restaurant_managment_api.git
 cd resto-backend
 ```
 
