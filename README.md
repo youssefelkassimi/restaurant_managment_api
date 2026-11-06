@@ -1,4 +1,4 @@
-# Resto Backend
+# Restaurant managment api
 
 REST API for managing a restaurant, built with **Spring Boot 3.4** and **Java 21**.
 
