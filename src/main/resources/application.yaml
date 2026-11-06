@@ -5,8 +5,8 @@ spring:
     name: resto
 
   datasource:
-    url: jdbc:mysql://localhost:3333/restoo
-    username: root
+    url: jdbc:mysql://localhost:3333/restoo 
+    username: root #this work only on my machin if clone it you need to put your database url, username and password use env variable for security
     password: 1111
 
   jpa:
